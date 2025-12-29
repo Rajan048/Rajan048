@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m Rajan Saini<br><br>🎓 3rd Year B.Tech Student — NIET, Greater Noida  <br>💡 Interested in Problem Solving & Web Development  <br>🔥 Passionate about Becoming a Skilled Software Developer  
+# 👋 Hi, I’m Rajan Saini
+🎓 3rd Year B.Tech Student — NIET, Greater Noida  <br>💡 Interested in Problem Solving & Web Development  <br>🔥 Passionate about Becoming a Skilled Software Developer  
 
 
 ## 🌐 Socials:
